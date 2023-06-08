@@ -1,0 +1,1 @@
+Do as much as you can of data preprocessing and analysis according to lectures? 
